@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Abhishek Kumar</h1>
-<h3 align="center">Network Security Engineer | Google Cloud | CCNP Enthusiast</h3>
+<h3 align="center">Network Security Engineer</h3>
 
 ---
 
