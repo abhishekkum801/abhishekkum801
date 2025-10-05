@@ -99,11 +99,10 @@ Biju Patnaik University of Technology, Odisha
 
 ---
 
-## 📊 GitHub Stats  
-
-- GitHub Profile: [github.com/abhishekkum](https://github.com/abhishekkum)  
-- Focus Areas: Network Security, Cloud Integration, Automation Labs  
-
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkum&show_icons=true&theme=radical" width="50%">
+</p>
 ---
 
 ## 🤝 Connect With Me  
