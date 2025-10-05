@@ -1,15 +1,20 @@
-# Hi 👋, I'm Abhishek Kumar  
-### Network Security Engineer | Google Cloud Certified | CCNP & Security Enthusiast  
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80">
+</p>
+
+<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
+<h3 align="center">Network Security Engineer | Google Cloud | CCNP Enthusiast</h3>
 
 ---
 
-## 🧑‍💻 About Me  
+## 🧑‍💻 About Me
 
-🎯 I’m a **curious and motivated Network Security Engineer** passionate about designing, securing, and optimizing enterprise networks.  
+🎯 Curious and motivated Network Security Engineer passionate about designing, securing, and optimizing enterprise networks.  
 📚 Hands-on experience with **Cisco technologies**, **routing/switching**, **VPNs**, and **firewalls**.  
 🌐 Focused on **network security**, **infrastructure automation**, and **cloud integration (GCP + Cisco)**.  
 🔍 Enthusiastic about **SD-WAN**, **Zero Trust**, and **real-world threat prevention**.  
 📍 Based in **Bengaluru, Karnataka, India**.  
+
 
 ---
 
