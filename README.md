@@ -1,16 +1,5 @@
-<!-- ============================= -->
-<!-- 🌐 GITHUB PROFILE README FILE -->
-<!-- ============================= -->
-
-<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-
-<h3 align="center">
-Network Security Engineer | Google Cloud Certified | CCNP & Security Enthusiast
-</h3>
-
-<p align="center">
-  <img src="https://i.imgur.com/rOe7bHT.png" width="700" alt="Network Security Banner">
-</p>
+# Hi 👋, I'm Abhishek Kumar  
+### Network Security Engineer | Google Cloud Certified | CCNP & Security Enthusiast  
 
 ---
 
@@ -26,37 +15,37 @@ Network Security Engineer | Google Cloud Certified | CCNP & Security Enthusiast
 
 ## 🧠 Skills & Tools  
 
-### 📡 **Core Networking Protocols & Services**
+### 📡 Core Networking Protocols & Services  
 **Protocols:** TCP/IP • ICMP • DNS • DHCP • SNMP • FTP/TFTP • HTTPS • SSL/TLS • SSH • PKI • ARP • NAT  
-**Description:** Skilled at analyzing and troubleshooting Layer 2/3 communication, configuring secure IP addressing, and ensuring protocol efficiency.
+**Expertise:** Troubleshooting Layer 2/3 issues, analyzing packet flows, configuring secure IP communication, and implementing efficient routing.  
 
 ---
 
-### 🚦 **Routing & Switching**
-**Routing:** OSPF • EIGRP • BGP • Static Routing • Route Redistribution • Policy-Based Routing  
+### 🚦 Routing & Switching  
+**Routing:** OSPF • EIGRP • BGP • Static & Policy-Based Routing • Route Redistribution  
 **Switching:** VLAN • VTP • STP/RSTP/MSTP • EtherChannel • PVLANs • Inter-VLAN Routing  
-**Description:** Expertise in building redundant, load-balanced, and scalable campus networks with multi-area OSPF and BGP integration.
+**Expertise:** Building scalable and redundant campus networks, route optimization, and multi-area OSPF/BGP integration.  
 
 ---
 
-### 🛡️ **Network Security & VPNs**
+### 🛡️ Network Security & VPNs  
 **Security Controls:** ACLs • Port Security • DHCP Snooping • DAI • AAA (TACACS+/RADIUS)  
 **VPN Technologies:** IPsec • SSL • DMVPN • GRE • Site-to-Site VPNs  
-**Firewalls & Security Tools:** Cisco ASA • FTD • Palo Alto • Fortinet • Check Point • Cisco ISE • Cisco WSA/CWS  
-**Description:** Implementing secure network topologies, multi-tier VPN connectivity, and advanced firewall rule optimization.
+**Firewalls & Tools:** Cisco ASA • FTD • Palo Alto • Fortinet • Check Point • Cisco ISE • Cisco WSA/CWS  
+**Expertise:** Designing secure architectures, deploying NGFWs, configuring VPN tunnels, and enforcing access policies.  
 
 ---
 
-### ☁️ **Cloud & Virtualization**
+### ☁️ Cloud & Virtualization  
 **Platforms:** Google Cloud Platform (GCP) • VMware Workstation Pro  
 **Virtual Labs:** GNS3 • EVE-NG • Cisco Packet Tracer  
-**Description:** Designing hybrid environments that securely connect on-prem infrastructure to cloud networks with controlled access and monitoring.
+**Expertise:** Creating hybrid environments, linking on-prem infrastructure to cloud securely, and managing virtualized labs for testing and training.  
 
 ---
 
-### ⚙️ **Tools & Automation**
+### ⚙️ Tools & Automation  
 Wireshark • Nmap • Linux CLI • Git • Bash • Cisco DNA Center • REST APIs  
-**Description:** Skilled in packet analysis, network monitoring, and maintaining configuration repositories using version control systems.
+**Expertise:** Packet analysis, network monitoring, configuration management, and automation for efficient network operations.  
 
 ---
 
@@ -79,17 +68,17 @@ Biju Patnaik University of Technology, Odisha
 
 ## 💼 Work Experience  
 
-### **Software Engineer** – *GlobalLogic India Pvt. Ltd.*  
+### **Software Engineer** – GlobalLogic India Pvt. Ltd.  
 🗓️ *Sep 2022 – Oct 2023*  
 - Developed and supported enterprise-grade software solutions.  
 - Collaborated with cross-functional teams to ensure scalability and reliability.  
-- Contributed to code optimization and release management processes.
+- Contributed to release and performance optimization.  
 
-### **Network Security Trainee** – *Networkers Home, Bangalore*  
+### **Network Security Trainee** – Networkers Home, Bangalore  
 🗓️ *Nov 2024 – Present*  
-- Configured and secured Cisco and Palo Alto firewalls in simulated enterprise topologies.  
-- Built lab networks for VPN testing, IDS/IPS validation, and routing optimization.  
-- Implemented access policies and logging for secure network operations.  
+- Configured secure networks using Cisco and Palo Alto firewalls.  
+- Built lab topologies for VPN testing, IDS/IPS validation, and routing optimization.  
+- Implemented access control policies and security monitoring.  
 
 ---
 
@@ -107,33 +96,26 @@ Biju Patnaik University of Technology, Odisha
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkum&show_icons=true&theme=dark" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkum&layout=compact&theme=dark" height="165">
-</p>
+- GitHub Profile: [github.com/abhishekkum](https://github.com/abhishekkum)  
+- Focus Areas: Network Security, Cloud Integration, Automation Labs  
 
 ---
 
 ## 🤝 Connect With Me  
 
-<p align="center">
-  <a href="mailto:abhishek.kum801@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/imkumarabhishek"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"></a>
-  <a href="https://github.com/abhishekkum"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"></a>
-  <a href="#"><img src="https://img.icons8.com/color/48/india.png" alt="Location"></a>
-</p>
+📧 Email: **abhishek.kum801@gmail.com**  
+💼 LinkedIn: [linkedin.com/in/imkumarabhishek](https://www.linkedin.com/in/imkumarabhishek)  
+🌍 Location: **Bengaluru, Karnataka, India**  
 
 ---
 
 ## 🙋‍♂️ Fun Facts  
 
-🤖 I enjoy designing complex network labs and experimenting with routing behaviors.  
-🌱 Currently learning **advanced firewall policies**, **VPN architectures**, and **network automation**.  
-📈 Focused on **real-world simulation** of network security topologies and incident response.  
-⭐ Always open to collaboration, lab projects, and technical discussions.  
+🤖 I love designing complex lab topologies using Packet Tracer, GNS3, and EVE-NG.  
+🌱 Currently exploring **firewall policy design**, **VPN automation**, and **zero-trust architectures**.  
+📈 Focused on building **real-world, scalable, and secure network solutions**.  
+⭐ Always open to collaboration and knowledge exchange.  
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/k9fYFmd.png" width="400" alt="Thank You">
-</p>
+_Thank you for visiting my profile!_
