@@ -113,7 +113,7 @@ Biju Patnaik University of Technology, Odisha
 
 ---
 
-## 🙋‍♂️ Fun Facts  
+## 🙋‍♂️ Passions & Pursuits
 
 🤖 I love designing complex lab topologies using Packet Tracer, GNS3, and EVE-NG.  
 🌱 Currently exploring **firewall policy design**, **VPN automation**, and **zero-trust architectures**.  
